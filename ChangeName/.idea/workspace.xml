@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7210227-a8e3-46c0-a10c-474f9a2c133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Car/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/AddElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/ArrayOfMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/ConcatenateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/CovertTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/DeleteElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/DisplayIndexOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/FindCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/FindMaxValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/FindStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/MinValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/PrimitiveAndReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/Thamtri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_method/sddgf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/Phuongtrinhcanbachai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/QuadraticEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_object/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/ChangeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/CheckOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/CountPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/CovertMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/DateOfMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/DisplayHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/DisplayNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/FillName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/ReadNumberToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/Rectangle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/SystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_language/UocChungLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemTime/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemTime/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class_object/StopWatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/class_object/Fan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+              <folding>
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array_method/sddgf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class_object/QuadraticEquation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/vn/codegym/Main.java" />
+        <option value="$PROJECT_DIR$/src/ChangeName.java" />
+        <option value="$PROJECT_DIR$/src/FillName.java" />
+        <option value="$PROJECT_DIR$/src/Rectangle1.java" />
+        <option value="$PROJECT_DIR$/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/SystemTime.java" />
+        <option value="$PROJECT_DIR$/src/LinearEquationResolver.java" />
+        <option value="$PROJECT_DIR$/src/DateOfMonth.java" />
+        <option value="$PROJECT_DIR$/src/CheckOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/DisplayHello.java" />
+        <option value="$PROJECT_DIR$/src/ReadNumberToString.java" />
+        <option value="$PROJECT_DIR$/src/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/NgonNguJava/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/Java_Language/UocChungLonNhat.java" />
+        <option value="$PROJECT_DIR$/src/Java_Language/DisplayPrimitive.java" />
+        <option value="$PROJECT_DIR$/src/Java_Language/DisplayNumber.java" />
+        <option value="$PROJECT_DIR$/src/Java_Language/CountPrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/Java_Language/CovertMoney.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/Thamtri.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/CovertTemperature.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/DisplayIndexOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/MinValueOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/AddElementIntoArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/PrimitiveAndReference.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/sddgf.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/FindTheBestElement.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/MultidimentionalArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/FindMaxValueOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/MangHaiChieu.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/FindStudents.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/ConcatenateArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/AddElementOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/DeleteElementOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/FindCharInString.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/MuliplicaitionOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/MultiplicaitionOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/ArrayofMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/ArrayOfMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/Array_Method/Example.java" />
+        <option value="$PROJECT_DIR$/src/Class_Object/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/Class_Object/Phuongtrinhcanbachai.java" />
+        <option value="$PROJECT_DIR$/src/Class_Object/QuadraticEquations.java" />
+        <option value="$PROJECT_DIR$/src/class_object/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/class_object/StopWatch/javsa.java" />
+        <option value="$PROJECT_DIR$/src/array_method/sddgf.java" />
+        <option value="$PROJECT_DIR$/src/class_object/QuadraticEquations.java" />
+        <option value="$PROJECT_DIR$/src/class_object/StopWatch.java" />
+        <option value="$PROJECT_DIR$/src/class_object/Fan.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChangeName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChangeName" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChangeName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChangeName" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChangeName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChangeName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChangeName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChangeName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="array_method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChangeName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChangeName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="class_object" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554205179044" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ReadNumberToString" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.Fan" />
+      <module name="ChangeName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phuongtrinhcanbachai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.Phuongtrinhcanbachai" />
+      <module name="ChangeName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadraticEquations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.QuadraticEquations" />
+      <module name="ChangeName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.StopWatch" />
+      <module name="ChangeName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sddgf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_method.sddgf" />
+      <module name="ChangeName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.QuadraticEquations" />
+      <item itemvalue="Application.Phuongtrinhcanbachai" />
+      <item itemvalue="Application.sddgf" />
+      <item itemvalue="Application.StopWatch" />
+      <item itemvalue="Application.Fan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.sddgf" />
+        <item itemvalue="Application.Phuongtrinhcanbachai" />
+        <item itemvalue="Application.QuadraticEquations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7210227-a8e3-46c0-a10c-474f9a2c133a" name="Default Changelist" comment="" />
+      <created>1553522449543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553522449543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="653" height="687" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05059022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.32252252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56838363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3268206" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23967612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56838363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3268206" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_language/LinearEquationResolver.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="a != 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/java_language/LinearEquationResolver.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array_method/PrimitiveAndReference.java</url>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array_method/sddgf.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array_method/DeleteElementOfArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>a != 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ChangeName.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/SystemTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/Rectangle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/ChangeName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NgonNguJava/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_language/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/ReadNumberToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/DisplayHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/FillName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/LinearEquationResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Language/DisplayPrimitive.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_language/UocChungLonNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/DisplayNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/CountPrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/CheckOfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/Thamtri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/CovertMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/DateOfMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/CovertTemperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/MinValueOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/DeleteElementOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/DisplayIndexOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/ConcatenateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/FindStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/FindMaxValueOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class_Object.kt" />
+    <entry file="file://$PROJECT_DIR$/src/array_method/FindCharInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_language/QuadraticEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/ArrayOfMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="7" selection-start-column="3" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class_Object/class_object.java" />
+    <entry file="file://$PROJECT_DIR$/src/class_object/StopWatch/javsa.java" />
+    <entry file="file://$PROJECT_DIR$/src/array_method/AddElementOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/PrimitiveAndReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_object/Phuongtrinhcanbachai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_object/QuadraticEquations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_object/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_method/sddgf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_object/QuadraticEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_object/Fan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
